@@ -1,0 +1,13 @@
+{% if page.original %}
+
+  {% if include.param == 'header' %}
+
+    <link rel="canonical" href="{{ page.original.link }}" />
+
+  {% elsif include.param == 'body' %}
+
+  <p class="original-post">This post was originally published on {{ page.original.site }} on {{ page.original.date | date: "%b %-d, %Y"  }}: <a href="{{ page.original.link }}" title="{{ page.title }}" target="_blank">{{ page.title }}</a>.</p>
+
+  {% endif %}
+
+{% endif %}
