@@ -5,8 +5,8 @@ date:   2016-11-22 12:00:00
 categories: [Fusion]
 tags: [Fusion]
 image: https://cdn-images-1.medium.com/max/880/1*UjvqfZ9b5suIFVutLIZg6A.png
-imageW: 400
-imageH: 500
+imageW: 50%
+imageH: 50%
 original:
   link: https://medium.com/@jessemoore07/a-breakthrough-in-fusion-puts-us-on-the-pathway-to-unlimited-energy-364d6c2527ef
   date: 2016-11-22
