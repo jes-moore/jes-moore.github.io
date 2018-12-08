@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Misconceptions about Deep Learning"
-date:   2016-11-22 12:00:00
+date:   2018-01-26 12:00:00
 categories: [Deep-Learning, Neural-Networks, Machine-Learning]
 tags: [Deep-Learning, Neural-Networks, Machine-Learning]
 original:
@@ -9,7 +9,9 @@ original:
   date: 2018-01-26
   site: Towards Data Science
 ---
-I started this article with the hopes of confronting a few misconceptions about Deep Learning (DL), a field of Machine Learning that is simultaneously labelled a silver bullet and research hype. The truth lies somewhere in the middle, and I hope I can un-muddy the waters — at least a little bit. Importantly, I hope to clarify some processes to attack DL problems and also discuss why it performs so well in some areas such as Natural Language Processing (NLP), image recognition, and machine-translation while failing at others.
+I started this article with the hopes of confronting a few misconceptions about Deep Learning (DL), a field of Machine Learning that is simultaneously labelled a silver bullet and research hype. The truth lies somewhere in the middle, and I hope I can un-muddy the waters — at least a little bit.
+
+Importantly, I hope to clarify some processes to attack DL problems and also discuss why it performs so well in some areas such as Natural Language Processing (NLP), image recognition, and machine-translation while failing at others.
 
 **Deep Learning is Not a Dark Art**
 
