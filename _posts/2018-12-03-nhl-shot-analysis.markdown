@@ -32,12 +32,12 @@ Since we can not merely say which shots are considered rebounds (this is not cat
 
 The assumption would be that if rebounds indeed lead to better scoring chances, we would see a sharply better scoring rate. Below is a chart that looks at that scoring ratio plotted against the time between two shots.
 
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/7.embed?showlink=false" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/7.embed?showlink=false&autosize=true" width="100%" height="400" %}
 
 Clearly, there is a significant increase in the scoring ratio for anything less than three seconds (reaching a peak at two seconds). If the duration between the shot and the rebound is two seconds, there is almost four times the likelihood of scoring! Another unsurprising finding — there is a big spike in the number of shots and goals due to rebounds compared to all other shots.
 
 
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/5.embed?showlink=false" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/5.embed?showlink=false&autosize=true" width="100%" height="400" %}
 
 Since we can safely say that there is a three second period after the first shot where there is a dramatic increase in the probability of scoring, we can confidently categorize all shots within this bound as “rebounds.” This will be very important to the rest of this piece.
 
@@ -50,20 +50,17 @@ Why are rebounds after two seconds better than rebounds after one? Why are rebou
 * Two-second shots tend to be the sweet spot. At two seconds, the goalie has not had sufficient time to reset, AND the player has had time to take a set shot. This is also reinforced by the sharp drop in the number of shots at 2 seconds (think of this as the holy grail of rebounds).
 Now that we know “what” a rebound is, we can look at how important they are.
 
-<!-- <iframe width="800" height="400" frameborder="0" scrolling="no" src="//plot.ly/~jes-moore/9.embed"></iframe> -->
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/9.embed?showlink=false" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/9.embed?showlink=false&autosize=true" width="100%" height="400" %}
 
 While shots leading to rebounds make up only 5% of all shots, they make up more than 15% of the all goals scored. On the below chart, we can see where those shots are on a heat-map.
 
-<!-- <iframe width="800" height="900" frameborder="0" scrolling="no" src="//plot.ly/~jes-moore/11.embed"></iframe> -->
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/11.embed?showlink=false" width="100%" height="900" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/11.embed?showlink=false&autosize=true" width="100%" height="900" %}
 
 The majority of shots come from unsurprising places. If we look at that a bit differently — as the probably a shot from a specific location leads to rebounds we find something a bit more distributed. The closer to the box you are, the more likely a shot is to lead to a rebound, but the probability that a shot leads to a rebound is not as skewed as the actual shots taking place.
 
 This points to a hypothesis that there is not as strong as a relationship between where shots are taken and their likelihood to lead to a rebound (i.e., scoring opportunity) as some may think. Perhaps teams should focus less on getting the right shots and more on taking more shots?
 
-<!-- <iframe width="800" height="900" frameborder="0" scrolling="no" src="//plot.ly/~jes-moore/13.embed"></iframe> -->
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/13.embed?showlink=false" width="100%" height="900" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/13.embed?showlink=false&autosize=true" width="100%" height="900" %}
 
 **Good Shots vs More Shots**
 
@@ -73,15 +70,13 @@ Over the data analyzed, a higher rebound rate does not actually correlate with a
 
 We also find that a higher rebound rate has a strong relationship with fewer shots taken and also see that more shots = more wins.
 
-<!-- <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~jes-moore/21.embed"></iframe> -->
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/21.embed?showlink=false" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/21.embed?showlink=false&autosize=true" width="100%" height="400" %}
 
 It is essential to think about the results above in context. There is a lot of variance across all the charts, but there are clear trends for some of the data points. Another way we could look at the data is to look at a game level rather than a seasonal level. Intriguingly, we find the opposite effect. When we look game by game, we see that the team with fewer shots often wins more games (by a small margin). Perhaps a team with a lower rebound ratio in a game points to better goal tending?
 
 Keep in mind that the average number of rebounds per team per game is only 3.9. In most cases the team with the most rebounds has only 1 more rebound.
 
-<!-- <iframe width="900" height="450" frameborder="0" scrolling="no" src="//plot.ly/~jes-moore/23.embed"></iframe> -->
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/23.embed?showlink=false" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/23.embed?showlink=false&autosize=true" width="100%" height="400" %}
 
 This is counter-intuitive — so much so that I spend a lot of hours combing through the code looking for errors. One reasonable explanation could be that over a season, a team with very few shots and a low rebound rate is indeed trying too hard to find the right shot. Conversely, a team with many shots is taking more shots (leading to better outcomes). Perhaps there is just so much variance in game-to-game statistics (as evidenced by many people that have done a similar analysis before me) that they are meaningless?
 
