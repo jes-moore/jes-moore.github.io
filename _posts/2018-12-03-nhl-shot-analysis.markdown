@@ -32,7 +32,7 @@ Since we can not merely say which shots are considered rebounds (this is not cat
 
 The assumption would be that if rebounds indeed lead to better scoring chances, we would see a sharply better scoring rate. Below is a chart that looks at that scoring ratio plotted against the time between two shots.
 
-{% include helpers/iframe.html url="https://plot.ly/~jes-moore/7.embed?showlink=false&autosize=true" width="100%" height="400" %}
+{% include helpers/iframe.html url="https://plot.ly/~jes-moore/7.embed?showlink=false&autosize=true&modebar=false&width=100%" width="100%" height="400" %}
 
 Clearly, there is a significant increase in the scoring ratio for anything less than three seconds (reaching a peak at two seconds). If the duration between the shot and the rebound is two seconds, there is almost four times the likelihood of scoring! Another unsurprising finding — there is a big spike in the number of shots and goals due to rebounds compared to all other shots.
 
