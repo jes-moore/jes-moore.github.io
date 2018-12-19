@@ -1,3 +1,9 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+
 .card,
 .post-list .post {
     background-color: #fff;
