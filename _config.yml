@@ -24,7 +24,7 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 5
+paginate: 3
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
