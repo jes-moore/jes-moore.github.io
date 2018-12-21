@@ -24,8 +24,8 @@ You will need to get used to:
 - A never ending cloud of uncertainty.
 - Coffee. A lot of coffee.
 
-![
-](https://images.unsplash.com/photo-1442411210769-b95c4632195e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![coffee beans
+](https://images.unsplash.com/photo-1442411210769-b95c4632195e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80){:height="400px" width="400px"}
 
 To go through that without the right goal in mind is a shame. Often, the idea doesn't really need that much tweaking, just how you're applying it into a product.
 
@@ -39,7 +39,7 @@ So I say to you, future or current entrepeneur, to make this your number one pri
 ### Don't Be a Solution in Search of a Problem
 Without proper understanding of customers, clients, and the problem you are trying to solve, you can throw years of your life and hundreds of thousands of yours (and investors) money chasing a mythical creature that may not exist.
 
-![](https://images.unsplash.com/photo-1491899266767-3c25337d78b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80)
+![man looking at books](https://images.unsplash.com/photo-1491899266767-3c25337d78b5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80){:height="500px" width="500px"}
 
 Founders are berated about product-market fit every day. Perhaps due to the constant suggestion of it, many founders ignore this all important principle and it creates problems in wasted hours, wasted connections, and wasted investments.
 
