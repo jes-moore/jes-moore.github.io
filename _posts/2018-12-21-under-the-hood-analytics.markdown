@@ -25,23 +25,6 @@ The motivation behind doing this is summed up in Vox's video below. NHL outcomes
 </div>
 <br> -->
 
-<!-- <style>
-    .video-holder {
-      position: relative;
-      width: 100%;
-      height: 0;
-      padding-bottom: 56.25%;
-      overflow: hidden;
-    }
-    .video-holder iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-    }
-</style> -->
-
 ### Digging In
 As I thought more about how to approach the problem, I realized how complex the system I wanted to build would be. To start, I had no idea what data is known to be correlated with winning - more importantly it didn't seem that anyone else really did either. Research had obviously been done on various aspects of the game, but I couldn't find a perfect starting point for what I wanted to do.
 
@@ -525,3 +508,19 @@ I hope that this article does some good for new data scientists, gives an idea o
 
 Play the long game, find the intricate details, then start modelling. You'll end up with a far better model, and exit with a invaluable breadth of domain knowledge that helps you as you move forward.
 
+<style>
+    .video-holder {
+      position: relative;
+      width: 100%;
+      height: 0;
+      padding-bottom: 56.25%;
+      overflow: hidden;
+    }
+    .video-holder iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+</style>
