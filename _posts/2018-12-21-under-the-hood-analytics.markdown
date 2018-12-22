@@ -42,7 +42,7 @@ After some initial exploratory digging, I landed on the following strategy:
   * Home/Away Advantages
 2. I would then take the insights I had found and build them into prediction system.
 
-It became clear early on in my analysis that this would be a difficult task. I've aborbed myself in shooting statistics and have seen first hand why many statisticians have chalked so much up to chance. However, I've also found a few interesting pieces of information I did not know before (and couldn't find any other information on).
+It became clear early on in my analysis that this would be a difficult task. I've absorbed myself in shooting statistics and have seen first hand why many statisticians have chalked so much up to chance. However, I've also found a few interesting pieces of information I did not know before (and couldn't find any other information on).
 
 Most importantly, I started to get a feel for a very specific part of the game. It leads me to believe that there are a lot of features that can be built that are predictive over entire seasons, but that those same statistics are full of noisy outliers. I have a nagging suspicion that NHL is a very momentum based game, that how a team acts on a longer-term basis is predictive of their success, and that behaviors are more important than individual stats such as goals or shots. One of the critical takeaways from that piece can be explained in the following three graphs.
 
@@ -506,7 +506,7 @@ This is just the start of such an analysis. We've barely even breached the surfa
 
 I hope that this article does some good for new data scientists, gives an idea of how important exploratory data analysis is and puts project design in perspective.
 
-Play the long game, find the intricate details, then start modelling. You'll end up with a far better model, and exit with a invaluable breadth of domain knowledge that helps you as you move forward.
+Play the long game, find the intricate details, then start modeling. You'll end up with a far better model, and exit with an invaluable breadth of domain knowledge that helps you as you move forward.
 
 <style>
     .video-holder {
