@@ -11,7 +11,7 @@ Many data science projects are a hunt for knowledge. As history has taught us th
 Professor Harari explores this topic in [Homo Deus](https://www.ynharari.com/book/homo-deus/) with the skill we've become accustomed to in his work.  Giving the example of Marx's "Das Kapital", Harari provides clarity to the idea that translates into a very valuable lesson.
 
 ### A Capitalist Reform
-![Karl Marx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/220px-Karl_Marx_001.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}In the middle nineteenth century, Marx made a brilliant set of insights into the economics of the day. Marx also predicted a violent uprising in the west and collapse of the capitalist system, a system which, for the most part, remains till today. While Russia eventually followed suit in many ways, his predictions never came true in the west. But why?
+![Karl Marx](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Karl_Marx_001.jpg/220px-Karl_Marx_001.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}In the middle nineteenth century, Marx made a brilliant set of insights into the economics of the day. Marx also predicted a violent uprising in the West and collapse of the capitalist system, a system which, for the most part, remains till today. While Russia eventually followed suit in many ways, his predictions never came true in the West. But why?
 
 One reason is that capitalists know how to read. As Marx became an ever more prominent figure in political circles, the capitalists of the day were using his insights to change the future. They understood how capitalism had failed so many and that if something did not change the whole system would come tumbling down.
 
@@ -19,7 +19,7 @@ As people started to see and believe what Marx was predicting, their behavior ch
 
 However, without the changes made as a result of Marx, it is entirely likely that the West's political system would have fallen victim to Marx's predictions.
 
-### Parodox of Predictions
+### Paradox of Predictions
 Thus we are faced with the paradox of prediction.
 
 In the process of making predictions we often uncover valuable new knowledge. That new knowledge and the predictions it begets changes the system. Harari puts it this way:
