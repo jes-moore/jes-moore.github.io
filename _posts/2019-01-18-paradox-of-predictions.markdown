@@ -24,7 +24,7 @@ Thus we are faced with the paradox of prediction.
 
 In the process of making predictions we often uncover valuable new knowledge. That new knowledge and the predictions it begets changes the system. Harari puts it this way:
 
-> Knowledge that does not change behavior is useless. But knowledge that does not change behavior quickly loses its relevance.
+> Knowledge that does not change behavior is useless. But knowledge that does change behavior quickly loses its relevance.
 
 The same paradox applies to many prediction systems in data science.  As we collect ever more data, we create ever more powerful prediction systems. Those systems alter behavior and the data and systems we have no longer prove accurate to the present day. We must rework parts of the system or rebuild it entirely.
 
