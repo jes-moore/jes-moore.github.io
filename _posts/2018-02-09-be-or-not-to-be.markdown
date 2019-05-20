@@ -24,6 +24,7 @@ A while back, I read Simon Sinek’s book “Start With Why”. It was at the st
 
 
 ![](https://cdn-images-1.medium.com/max/1000/0*6MraPgcsjiK9cNrG.png)
+
 Image via [FramingTheDialogue.com.](http://www.framingthedialogue.com/archives/start-with-why/)
 
 If you have some time, check out [Simon’s Ted-Talk](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) and come back. If you do not have time, skip ahead — it’s not mandatory.

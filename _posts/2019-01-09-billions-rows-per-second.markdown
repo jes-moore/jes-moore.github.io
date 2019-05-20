@@ -71,8 +71,8 @@ echo 'HDF5 saved to: $hdf5_out'
 ```
 
 And we are ready to test out Vaex. Since Vaex doesn't actually load the dataset into memory, it is almost instantaneous.
-![
-](https://i.imgur.com/Noxlwg4.png)
+
+![](https://i.imgur.com/Noxlwg4.png)
 
 Let's run a relatively simple calculation and compare. Our dataset contains Longitudes and Latitudes for each datapoint (there are a total of ~ 9 Million rows. Let's say we want to find all points contained within New York City.
 
@@ -81,8 +81,9 @@ nyc_lat = [40.348424, 40.913145]
 nyc_long = [-74.432885, -73.696834]
 
 And here is the comparison of Vaex vs Pandas.
-![
-](https://i.imgur.com/M61AqH9.png)
+
+![](https://i.imgur.com/M61AqH9.png)
+
 For this simple operation, Vaex is almost 25 times fast. Keep in mind that the larger your dataset the more benefit you are going to see from Vaex.
 
 Additionally, complex mathematical operations can be significantly boosted using a beautiful Python library called Numba (more on that on a later post).
