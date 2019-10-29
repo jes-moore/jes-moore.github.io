@@ -10,7 +10,6 @@ original:
   site: blog.mobilads.co
 ---
 
-![Serverless](https://miro.medium.com/max/2253/1*qqs1OCH9mWerAEfUJXyzVg.jpeg)I
 Serverless has been around for a few years. It is not a brand new idea, but it is a new way of thinking about building applications.
 
 I always tend to think about why I am doing something before I think about how I will do something. It helps with motivation, product design, and understanding. It encourages you to rethink existing "well-known" solutions and also ensures that you verify the assumptions you make on a day to day base.
