@@ -10,4 +10,13 @@ original:
   site: toptal.com
 ---
 
-[Article on Toptal](https://www.toptal.com/natural-language-processing/accelerate-with-bert-nlp-optimization-models)
+Headover to Toptal to check out this article: [Article Link](https://www.toptal.com/natural-language-processing/accelerate-with-bert-nlp-optimization-models)
+
+<div class="video-holder">
+  <iframe width="560"
+          height="315"
+          src="https://www.youtube.com/watch?v=4Z_TzZJ-v3o"
+          frameborder="0"
+          allowfullscreen></iframe>
+</div>
+<br>
