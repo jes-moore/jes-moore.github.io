@@ -9,7 +9,7 @@ baseurl: ''
 author:
   name: 'Jesse Moore'
   email: jesse@jessemoore.ca
-  twitter_username: macroinv
+  # twitter_username: macroinv
   # facebook_username: joshgerdes
   github_username:  jes-moore
   linkedin_username:  jessemoore07
